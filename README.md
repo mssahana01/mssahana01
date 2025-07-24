@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Sahana Madhugiri Shankar</h1>
+<h1 align="center">Hi there👋, I'm Sahana</h1>
 <h3 align="center">Data Science Graduate Student @ Indiana University Bloomington</h3>
 
 ---
@@ -11,7 +11,7 @@
 - 💬 Ask me about **Python Automation, Generative AI, and Data Visualization**
 - 👯 I love collaborating on projects in **NLP, ML, and LLM Applications**
 - 📫 Reach me at: mssahana30@gmail.com
-- 🌐 Visit my portfolio: [Your Portfolio Website](https://your-portfolio-link.com)
+- 🌐 Visit my portfolio: 
 
 ---
 
@@ -40,19 +40,5 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahanaMS&show_icons=true&theme=radical" alt="Sahana's GitHub stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanaMS&theme=radical" alt="Sahana's GitHub streak"/>
-</p>
-
----
-
-### 📝 Latest Blog / Portfolio
-
-- Coming soon! (You can link [Medium](https://medium.com) or [personal site](https://your-portfolio-link.com) here)
-
----
 
