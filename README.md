@@ -5,13 +5,13 @@
 
 🎓 **About Me**
 
-- 💻 Currently pursuing **MS in Data Science (Applied Data Science Track)** @ IU Bloomington  
+- 💻 Incoming **Data Science grad (Applied Data Science Track)** @ IU Bloomington  
 - 🔭 Passionate about **LLMs, NLP, AI-driven automation, and Machine Learning**
 - 🌱 Learning and building with **LangChain, OpenAI APIs, Pinecone, and TensorFlow**
 - 💬 Ask me about **Python Automation, Generative AI, and Data Visualization**
 - 👯 I love collaborating on projects in **NLP, ML, and LLM Applications**
 - 📫 Reach me at: mssahana30@gmail.com
-- 🌐 Visit my portfolio: 
+## 🌐 Visit my portfolio: 
 
 ---
 
