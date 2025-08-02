@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sahana</h1>
-<h3 align="center">Data Science Graduate Student @ Indiana University Bloomington</h3>
+<h3 align="center">Incoming Data Science Graduate Student @ Indiana University Bloomington</h3>
 
 ---
 
@@ -11,7 +11,6 @@
 - 💬 Ask me about **Python Automation, Generative AI, and Data Visualization**
 - 👯 I love collaborating on projects in **NLP, ML, and LLM Applications**
 - 📫 Reach me at: mssahana30@gmail.com
-## 🌐 Visit my portfolio: 
 
 ---
 
