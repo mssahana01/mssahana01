@@ -5,7 +5,7 @@
 
 🎓 **About Me**
 
-- 💻 Incoming **Data Science grad (Applied Data Science Track)** @ IU Bloomington  
+- 💻 **Data Science grad (Applied Data Science Track)** @ IU Bloomington  
 - 🔭 Passionate about **LLMs, NLP, AI-driven automation, and Machine Learning**
 - 🌱 Learning and building with **LangChain, OpenAI APIs, Pinecone, and TensorFlow**
 - 💬 Ask me about **Python Automation, Generative AI, and Data Visualization**
