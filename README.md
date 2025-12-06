@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sahana</h1>
-<h3 align="center">Incoming Data Science Graduate Student @ Indiana University Bloomington</h3>
+<h3 align="center">Data Science Graduate Student @ Indiana University Bloomington</h3>
 
 ---
 
