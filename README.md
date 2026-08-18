@@ -10,7 +10,7 @@
 - 🌱 Learning and building with **LangChain, OpenAI APIs, Pinecone, and TensorFlow**
 - 💬 Ask me about **Python Automation, Generative AI, and Data Visualization**
 - 👯 I love collaborating on projects in **NLP, ML, and LLM Applications**
-- 📫 Reach me at: mssahana30@gmail.com
+- 📫 Reach me at: smshankar011@gmail.com
 
 ---
 
